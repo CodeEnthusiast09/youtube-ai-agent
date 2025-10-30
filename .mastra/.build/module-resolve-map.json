@@ -1,0 +1,10 @@
+{
+  "/home/oblee/Desktop/projects/youtube-agent/.mastra/.build/typescript.mjs": {},
+  "/home/oblee/Desktop/projects/youtube-agent/.mastra/.build/@mastra-loggers.mjs": {
+    "pino": "/home/oblee/Desktop/projects/youtube-agent/node_modules/@mastra/loggers/dist/index.js",
+    "pino-pretty": "/home/oblee/Desktop/projects/youtube-agent/node_modules/@mastra/loggers/dist/index.js"
+  },
+  "/home/oblee/Desktop/projects/youtube-agent/.mastra/.build/@mastra-libsql.mjs": {
+    "@libsql/client": "/home/oblee/Desktop/projects/youtube-agent/node_modules/@mastra/libsql/dist/index.js"
+  }
+}
